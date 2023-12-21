@@ -2,6 +2,6 @@ class Hello
 class Hell{
 Public static void main(String args[])
 {
-System.out.println(“updated hello from child branch”);
+System.out.println(“modified hello from child branch”);
 }a
 
